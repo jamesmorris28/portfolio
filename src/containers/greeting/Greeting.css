@@ -50,6 +50,12 @@
   font-family: "Google Sans Medium";
 }
 
+.greeting-image-div {
+  width: 100%;
+  aspect-ratio: 1/1;
+  overflow: hidden;
+}
+
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;

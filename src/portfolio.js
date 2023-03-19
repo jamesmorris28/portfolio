@@ -27,6 +27,7 @@ const greeting = {
     "https://docs.google.com/document/d/1xUAWgPxYR4z8ggRtYB8WBXk2OMuGNqVPNU8GYW46ITw/edit?usp=sharing",
   portfolio_repository: "https://github.com/jamesmorris28",
   githubProfile: "https://github.com/jamesmorris28/portfolio",
+  picture: "profile-picture.jpg",
 };
 
 const socialMediaLinks = [
