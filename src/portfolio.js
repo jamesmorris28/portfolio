@@ -25,8 +25,8 @@ const greeting = {
   subTitle: "Lead Web Developer",
   resumeLink:
     "https://docs.google.com/document/d/1xUAWgPxYR4z8ggRtYB8WBXk2OMuGNqVPNU8GYW46ITw/edit?usp=sharing",
-  // portfolio_repository: "https://github.com/lang-sky",
-  // githubProfile: "https://github.com/lang-sky",
+  portfolio_repository: "https://github.com/jamesmorris28",
+  githubProfile: "https://github.com/jamesmorris28/portfolio",
 };
 
 const socialMediaLinks = [
